@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intruder Alert</string>
+    <string name="admin_description">Legacy system-lock callback feasibility test. Does not collect passwords.</string>
+</resources>
